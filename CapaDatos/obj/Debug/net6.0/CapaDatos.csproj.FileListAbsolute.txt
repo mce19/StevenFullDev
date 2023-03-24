@@ -10,3 +10,5 @@ C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\obj\Debug\
 C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
 C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
 C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
+C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\bin\Debug\net6.0\CapaDatos.runtimeconfig.json
+C:\Users\panad\Downloads\WEB API BLOG\Web Api\DevBlogSteven\CapaDatos\obj\Debug\net6.0\CapaDatos.genruntimeconfig.cache
